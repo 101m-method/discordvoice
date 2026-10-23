@@ -1,0 +1,16 @@
+{
+  "name": "discordvoice",
+  "version": "1.0.0",
+  "description": "vc-joiner — By & Flamezz",
+  "main": "joiner.js",
+  "scripts": {
+    "start": "node joiner.js"
+  },
+  "author": "By & Flamezz",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.17.0",
+    "discord.js-selfbot-v13": "^3.4.2",
+    "libsodium-wrappers": "^0.7.13"
+  }
+}
